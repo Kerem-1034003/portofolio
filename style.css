@@ -85,9 +85,10 @@ color: white;
 }
 .box5{
 background-color: black;
-display: inline-block;
 margin-top: 5%;
     width: 50%;
+    position: relative;
+    left: 25%;
 }
 .box5 p {
   color: white;
